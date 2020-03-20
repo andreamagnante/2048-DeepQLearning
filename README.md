@@ -1,7 +1,10 @@
 # 2048 A Deep Q-Learning-Approach
 Project for the Machine Learning course - La Sapienza Università di Roma
 
-Implementing an agent for the 2048 game using a reinforcement learning approach. 
+Implementing an agent for the 2048 game using a reinforcement learning approach.
+
+For more details look at:
+[ML_2048_report.pdf](https://github.com/andreamagnante/2048-DeepQLearning/blob/master/ML_2048_report.pdf)
 
 ![](2048.gif)
 
